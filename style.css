@@ -46,6 +46,7 @@ html {
   border-radius: 5px;
   border: 2px solid gray;
   font-size: 18px;
+  text-align: center;
 }
 
 .odd {
